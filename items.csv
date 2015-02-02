@@ -1,0 +1,18 @@
+tenner;null;tidying;Un billet de 10 euros;null;Cela pourrait me servir pour acheter quelque chose au marché.
+note;null;mum;Une signature de maman;null;« Tiens mon fils. »
+axe;tenner;bigboy;Une hache;« Cette hache n'est pas gratuite ! »;« Merci beaucoup, fais bien attention avec ça ! »
+wine;note;countbottles;Une bouteille de vin;« Tu n'as pas l'âge requis. Reviens quand tu auras une autorisation de tes parents. »;Maintenant retournons voir ce fameux Jack.
+map;wine;null;Une carte;« Ce coffre n'est pas à moi, je n'ai pas le droit de prendre les objet qui sont dedans. »;Cette carte me permettra de ne pas me perdre.
+sword;null;arthur;Une épée;null;Cette épée est si légère ! C'est comme si elle était faite pour que je la porte...
+stone;null;imp_ask;Une pierre;null;« Tu peux maintenant emprunter le premier chemin »
+branch;null;imp_ask2;Une branche;null;« Tu peux maintenant emprunter le deuxième chemin »
+leaf;null;imp_ask3;Une feuille;null;« Tu peux maintenant emprunter le troisème chemin »
+werthers_original;null;speak_english;Un bonbon anglais;null;null
+little_fairy;null;fairy_tale;Une petite fée;null;null
+jewels;null;trololol;Des bijoux;null;J'ai trouvé mon cadeau de fête des mères.
+cheese;null;fontaine;Un fromage;null;Ça me fera mon goûter.
+tooth;null;null;Une dent;null;Peut-être que si je place cette dent sous mon oreiller la petite souris me donnera de l'argent.
+eat_me;null;pierre;Un champignon magique;null;« Tiens, mange ça. »
+treasure1;werthers_original;dragon1;Trésor de connaissance;null;null
+treasure2;werthers_original;dragon2;Trésor de connaissance;null;null
+treasure3;werthers_original;dragon3;Trésor de connaissance;null;null
